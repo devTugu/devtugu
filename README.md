@@ -5,8 +5,14 @@
 <div>
     Full Stack Engineer with 6 years of experience in computer software industry. Skilled in Front-end Development, Back-end Development, and Web Development. Competent specialist in engineering with bachelor's degree in Computer Science from Mongolian International University.
 </div>
- 
-<div align="right" style="margin-top: 30px;"> 
+
+<div style="margin-top: 30px;">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" />
+</div>
+
+<br/>
+
+<div align="center"> 
   <a href="mailto:oz.toogii@gmail.com">
         <img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Email-512.png" width="20" />
   </a>
@@ -17,9 +23,3 @@
      <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-square-512.png" width="20" target="_blank" />
   </a>
 </div>
-
-<div style="margin-top: 30px;">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" />
-</div>
-
-<br/>
