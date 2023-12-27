@@ -11,8 +11,28 @@
 <div>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" />
 </div>
+<br/>
 
+<h1> Private company projects: </h1>
 
+This is a private github projects. These are the projects the company has worked on.
+
+| Projects                                   | Link                                     | Description                                                                                             |
+|--------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Gobi LLC / Ecommerce                       | https://www.gobicashmere.com/            | This site used Next JS, Graphql and Tailwind CSS and finished working on all connections and templates. |
+| Gobi LLC / Info                            | https://info.gobi.mn/                    | This site used Next JS, Graphql and Tailwind CSS and finished working on all connections and templates. |
+| Inspire Vizualab LLC / Hotel Management    | https://jorni.io/                        | This site used React JS, Graphql and Bootstrap and finished working on all connections and templates.   |
+| Inspire Vizualab LLC / Ecommerce           | https://sazaxa.com/                      | This site used React JS, Graphql and Bootstrap and finished working on all connections and templates.   |
+| Inspire Vizualab LLC / Message server      | http://bestmunja.com/                    | This site used Codeigniter, MySql and Bootstrap and finished working on all connections and templates.  |
+| Inspire Vizualab LLC / IELTS               | https://www.edmclass.com/ielts/index.php | This site used Laravel, MySql and Bootstrap and finished working on all connections and templates.      |
+| Next Galaxy Corp / ERP                     | https://mykontor.mn/login/               | This site used PHP, MySql and CSS3 and finished working on all connections and templates.               |
+| Next Galaxy Corp / Security                | http://ksecurity.mn/                     | This site used Laravel, MySql and Bootstrap and finished working on all connections and templates.      |
+| Next Galaxy Corp / Karoake catalog printer | http://nextcontent.mn/                   | This site used PHP, MySql and Bootstrap and finished working on all connections and templates.          |
+| Times LLC / News                           | https://time.mn/                         | This site used DJANGO, POSTGRESQL and CSS3 and finished working on all connections and templates.       |
+
+<br/>
+
+<h1> Social links: </h1>
 <div align="center" marginTop="20"> 
   <a href="mailto:oz.toogii@gmail.com">
         <img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Email-512.png" width="20" />
