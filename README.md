@@ -6,6 +6,8 @@
     Full Stack Engineer with 6 years of experience in computer software industry. Skilled in Front-end Development, Back-end Development, and Web Development. Competent specialist in engineering with bachelor's degree in Computer Science from Mongolian International University.
 </div>
 
+<br/>
+
 <div style="margin-top: 30px;">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" />
 </div>
