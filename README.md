@@ -8,12 +8,14 @@
 
 <br/>
 
+<h2> Skills: </h2>
+
 <div>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" />
 </div>
 <br/>
 
-<h1> Private company projects: </h1>
+<h2> Private company projects: </h2>
 
 This is a private github projects. These are the projects the company has worked on.
 
@@ -32,7 +34,7 @@ This is a private github projects. These are the projects the company has worked
 
 <br/>
 
-<h1> Social links: </h1>
+<h2> Social links: </h2>
 <div align="center" marginTop="20"> 
   <a href="mailto:oz.toogii@gmail.com">
         <img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Email-512.png" width="20" />
