@@ -8,13 +8,12 @@
 
 <br/>
 
-<div style="margin-top: 30px;">
+<div>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" />
 </div>
 
-<br/>
 
-<div align="center"> 
+<div align="center" marginTop="20"> 
   <a href="mailto:oz.toogii@gmail.com">
         <img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Email-512.png" width="20" />
   </a>
