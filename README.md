@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tuguldur+Unurtsetseg!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=2000&pause=1000&color=1AF72A&background=000000&random=false&width=1440&height=150&lines=devtugu%40github+~+%25+Hi+There!;devtugu%40github+~+%25++I+am+Tuguldur+Unurtsetseg" alt="Typing SVG" />
 </h1>
 
 <div>
