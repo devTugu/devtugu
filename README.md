@@ -35,14 +35,14 @@ This is a private github projects. These are the projects the company has worked
 <br/>
 
 <h2> Social links: </h2>
-<div align="center" marginTop="20"> 
+<div align="left" marginTop="20"> 
   <a href="mailto:oz.toogii@gmail.com">
-        <img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Email-512.png" width="20" />
+        <img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Email-512.png" width="48" />
   </a>
   <a href="https://linkedin.com/in/devtugu" target="_blank">
-     <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-512.png" width="20" target="_blank" />
+     <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-512.png" width="48" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-square-512.png" width="20" target="_blank" />
+     <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-square-512.png" width="48" target="_blank" />
   </a>
 </div>
