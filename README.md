@@ -8,11 +8,17 @@
 
 <br/>
 
-<h2> Skills: </h2>
+<h2> Licenses & certifications: </h2>
 
-<div>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" />
-</div>
+| HackerRank                                 | Link                                                     | 
+|--------------------------------------------|----------------------------------------------------------|
+| Problem Solving (Basic) Certificate        | https://www.hackerrank.com/certificates/6fd23863d416     | 
+| JavaScript (Basic) Certificate             | https://www.hackerrank.com/certificates/f2686c4ab2a4     | 
+| SQL (Basic) Certificate                    | https://www.hackerrank.com/certificates/645d4fcbff52     | 
+| React (Basic) Certificate                  | https://www.hackerrank.com/certificates/e6b857a96432     | 
+| Rest API (Intermediate) Certificate        | https://www.hackerrank.com/certificates/6a00770852fb     | 
+| Software Engineer Certificate              | https://www.hackerrank.com/certificates/7809f82e0d85     | 
+
 <br/>
 
 <h2> Private company projects: </h2>
