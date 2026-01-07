@@ -1,54 +1,164 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=2000&pause=1000&color=1AF72A&background=000000&random=false&width=1440&height=150&lines=devtugu%40github+~+%25+Hi+There!;devtugu%40github+~+%25++I+am+Tuguldur+Unurtsetseg" alt="Typing SVG" />
-</h1>
+# Hi there! 👋 I'm Tuguldur Unurtsetseg
 
-<div>
-    Full Stack Engineer with 6 years of experience in computer software industry. Skilled in Front-end Development, Back-end Development, and Web Development. Competent specialist in engineering with bachelor's degree in Computer Science from Mongolian International University.
+**Full Stack Engineer** | **6+ Years Experience** | **Enterprise-Grade Solutions**
+
+---
+
+## 🚀 About Me
+
+Full Stack Developer with 6+ years building scalable web applications for startups and enterprises. Currently focused on writing clean, maintainable code using modern tools like **Cursor AI** and **TypeScript**.
+
+**What I do:**
+- 🎨 Frontend: React, Next.js, Tailwind CSS
+- 🔧 Backend: Node.js, Laravel, Django, GraphQL
+- 📊 Databases: PostgreSQL, MySQL
+- 🛠️ Tools: Git, Docker, CI/CD, Rest APIs
+
+**What I care about:**
+- Code quality & readability
+- Scalable architecture
+- Team collaboration
+- Continuous learning
+
+---
+
+## 🌟 Featured Projects
+
+### 1. [TripBooka](#) 
+*Coming Soon - Upwork Project*
+
+A modern booking platform for travel experiences.
+
+**Tech Stack:** Next.js | GraphQL | Tailwind CSS | PostgreSQL
+
+**Key Features:**
+- Real-time booking system
+- Payment integration
+- Responsive design
+
+[→ View Full Details](./projects/tripbooka) | [→ Live Demo](#)
+
+---
+
+### 2. [Zangia LLC](#)
+*Coming Soon - Full Stack Ecommerce*
+
+Modern e-commerce platform with advanced filtering and admin dashboard.
+
+**Tech Stack:** React | Node.js | MongoDB | Bootstrap
+
+**Key Features:**
+- Product catalog with advanced search
+- Secure payment gateway
+- Admin panel for inventory management
+- Customer analytics
+
+[→ View Full Details](./projects/zangia) | [→ Live Demo](#)
+
+---
+
+### 3. [Gobi Cashmere Website](https://www.gobicashmere.com/)
+
+Premium e-commerce platform for luxury cashmere products.
+
+**Tech Stack:** Next.js | GraphQL | Tailwind CSS | Shopify
+
+**Key Features:**
+- Product showcase with high-quality images
+- Seamless checkout experience
+- Email notifications
+- Multi-language support
+
+[→ View Full Details](./projects/gobi) | [→ Live Site](https://www.gobicashmere.com/)
+
+---
+
+## 💼 Experience
+
+### **Gobi LLC** | 2022 - Present
+**Full Stack Developer**
+- Built 2 modern e-commerce platforms using Next.js & GraphQL
+- Implemented responsive UI with Tailwind CSS
+- Optimized page load time by 40%
+- **Projects:** Gobi Cashmere, Info Portal
+
+### **Inspire Vizualab LLC** | 2020 - 2022
+**Full Stack Developer**
+- Developed hotel management system using React & GraphQL
+- Built e-commerce platform with Bootstrap
+- Created message server with CodeIgniter & MySQL
+- **Projects:** IELTS Platform, Hotel Management System
+
+### **Next Galaxy Corp** | 2018 - 2020
+**Full Stack Developer**
+- Built ERP system with PHP & MySQL
+- Developed security application with Laravel
+- Created karaoke catalog printer application
+- **Projects:** MyKontor ERP, KSecurity Platform
+
+### **Times LLC** | 2017 - 2018
+**Developer**
+- Built news portal with Django & PostgreSQL
+- Implemented responsive design with CSS3
+
+---
+
+## 🎓 Certifications
+
+| Certification | Status |
+|---|---|
+| [HackerRank - Problem Solving](https://www.hackerrank.com/certificates/6fd23863d416) | ✅ |
+| [HackerRank - JavaScript](https://www.hackerrank.com/certificates/f2686c4ab2a4) | ✅ |
+| [HackerRank - SQL](https://www.hackerrank.com/certificates/645d4fcbff52) | ✅ |
+| [HackerRank - React](https://www.hackerrank.com/certificates/e6b857a96432) | ✅ |
+| [HackerRank - REST API](https://www.hackerrank.com/certificates/6a00770852fb) | ✅ |
+| [HackerRank - Software Engineer](https://www.hackerrank.com/certificates/7809f82e0d85) | ✅ |
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Bootstrap, HTML/CSS
+
+**Backend:** Node.js, PHP, Laravel, Django, Express.js
+
+**Databases:** PostgreSQL, MySQL, MongoDB
+
+**APIs:** GraphQL, REST APIs, Shopify API
+
+**Tools & Platforms:** Git, Docker, Cursor AI, VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devtugu&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devtugu&theme=dark&layout=compact)
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+  
+[📧 Email](mailto:oz.toogii@gmail.com) | 
+[💼 LinkedIn](https://linkedin.com/in/devtugu) | 
+[💻 Portfolio](https://salesp07.github.io) | 
+[🐙 GitHub](https://github.com/devtugu)
+
 </div>
 
-<br/>
+---
 
-<h2> Licenses & certifications: </h2>
+## 📝 Latest Blog Posts
 
-| HackerRank                                 | Link                                                     | 
-|--------------------------------------------|----------------------------------------------------------|
-| Problem Solving (Basic) Certificate        | https://www.hackerrank.com/certificates/6fd23863d416     | 
-| JavaScript (Basic) Certificate             | https://www.hackerrank.com/certificates/f2686c4ab2a4     | 
-| SQL (Basic) Certificate                    | https://www.hackerrank.com/certificates/645d4fcbff52     | 
-| React (Basic) Certificate                  | https://www.hackerrank.com/certificates/e6b857a96432     | 
-| Rest API (Intermediate) Certificate        | https://www.hackerrank.com/certificates/6a00770852fb     | 
-| Software Engineer Certificate              | https://www.hackerrank.com/certificates/7809f82e0d85     | 
+Coming Soon...
 
-<br/>
+---
 
-<h2> Private company projects: </h2>
+<div align="center">
+  
+⭐ If you find my work interesting, please consider starring my repositories!
 
-This is a private github projects. These are the projects the company has worked on.
-
-| Projects                                   | Link                                     | Description                                                                                             |
-|--------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Gobi LLC / Ecommerce                       | https://www.gobicashmere.com/            | This site used Next JS, Graphql and Tailwind CSS and finished working on all connections and templates. |
-| Gobi LLC / Info                            | https://info.gobi.mn/                    | This site used Next JS, Graphql and Tailwind CSS and finished working on all connections and templates. |
-| Inspire Vizualab LLC / Hotel Management    | https://jorni.io/                        | This site used React JS, Graphql and Bootstrap and finished working on all connections and templates.   |
-| Inspire Vizualab LLC / Ecommerce           | https://sazaxa.com/                      | This site used React JS, Graphql and Bootstrap and finished working on all connections and templates.   |
-| Inspire Vizualab LLC / Message server      | http://bestmunja.com/                    | This site used Codeigniter, MySql and Bootstrap and finished working on all connections and templates.  |
-| Inspire Vizualab LLC / IELTS               | https://www.edmclass.com/ielts/index.php | This site used Laravel, MySql and Bootstrap and finished working on all connections and templates.      |
-| Next Galaxy Corp / ERP                     | https://mykontor.mn/login/               | This site used PHP, MySql and CSS3 and finished working on all connections and templates.               |
-| Next Galaxy Corp / Security                | http://ksecurity.mn/                     | This site used Laravel, MySql and Bootstrap and finished working on all connections and templates.      |
-| Next Galaxy Corp / Karoake catalog printer | http://nextcontent.mn/                   | This site used PHP, MySql and Bootstrap and finished working on all connections and templates.          |
-| Times LLC / News                           | https://time.mn/                         | This site used DJANGO, POSTGRESQL and CSS3 and finished working on all connections and templates.       |
-
-<br/>
-
-<h2> Social links: </h2>
-<div align="left" marginTop="20"> 
-  <a href="mailto:oz.toogii@gmail.com">
-        <img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Email-512.png" width="48" />
-  </a>
-  <a href="https://linkedin.com/in/devtugu" target="_blank">
-     <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-512.png" width="48" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-square-512.png" width="48" target="_blank" />
-  </a>
 </div>
