@@ -24,6 +24,9 @@ I work mostly on **production websites and marketing-focused applications**, hel
 ---
 
 ## 📌 About My Work
+I prefer simple, production-ready solutions over over-engineered setups.
+My goal is to help clients ship faster with clean, maintainable code.
+
 Some of my production projects are under NDA and can’t be shared publicly.
 The repositories here are meant to demonstrate:
 - Code structure & readability
@@ -32,3 +35,4 @@ The repositories here are meant to demonstrate:
 - Production-ready practices
 
 If you’re reviewing my GitHub as part of a project discussion, feel free to reach out with questions.
+
